@@ -1,0 +1,6 @@
+root:x:0:
+wheel:x:10:arch
+audio:x:11:arch
+video:x:26:arch
+storage:x:95:arch
+network:x:90:arch

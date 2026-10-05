@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Linux Femboy
+Description=Linux Femboy Edition
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/fbl
+ScriptFile=/usr/share/plymouth/themes/fbl/fbl.script

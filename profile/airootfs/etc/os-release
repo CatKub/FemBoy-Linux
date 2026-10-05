@@ -1,0 +1,9 @@
+NAME="Femboy Linux"
+PRETTY_NAME="Femboy Linux"
+ID=femboylinux
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;255;105;180"
+HOME_URL="https://archlinux.org/"
+SUPPORT_URL="https://wiki.archlinux.org/"
+BUG_REPORT_URL="https://wiki.archlinux.org/"

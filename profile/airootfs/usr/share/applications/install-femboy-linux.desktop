@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Install Femboy Linux
+Comment=Install Femboy Linux to your computer
+Exec=pkexec calamares
+Icon=system-software-install
+Terminal=false
+Categories=System;

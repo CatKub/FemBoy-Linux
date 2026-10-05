@@ -1,0 +1,7 @@
+img = Image('icons.jpg');
+sprite = Sprite(img);
+screen_w = Window.GetWidth();
+screen_h = Window.GetHeight();
+x = (screen_w - img.GetWidth()) / 2;
+y = (screen_h - img.GetHeight()) / 2;
+sprite.SetPosition(x, y, 0);
